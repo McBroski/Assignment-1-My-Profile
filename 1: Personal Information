@@ -1,15 +1,1 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>My Personal Information</title>
-    </head>
-    <body>
 
-    <h1>About me:</h1>
-    
-    <p>As you might already know, my name is Ceraph Toh. I live in Perth, WA. I am currently undergoing this Introduction to IT course as well as the Introduction to Programming course at RMIT.</p>
-    <break>
-    <p>I really like programming and am enjoying learning Python as well as casual programming on Scratch (with Scratch blocks) and Khan Academy (with JavaScript and HTML). I usually like to compose songs on the piano or on a music software called FL Studio in my free time as well as practice solving Rubik’s cubes and similar puzzles (2x2, 4x4, Pyraminx, Skewb, and Square-1). My fastest time for solving a Rubik’s cube is 7.22 seconds and I can solve it anytime within 20 seconds.<p/>
-    </body>
-</html>
